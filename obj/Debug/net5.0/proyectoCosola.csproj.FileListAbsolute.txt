@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.exe
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.deps.json
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.dll
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\ref\proyectoCosola.dll
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\bin\Debug\net5.0\proyectoCosola.pdb
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.dll
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\ref\proyectoCosola.dll
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.pdb
+C:\Users\USUARIO\Desktop\probando\PIPI\proyectoCosola\obj\Debug\net5.0\proyectoCosola.genruntimeconfig.cache
